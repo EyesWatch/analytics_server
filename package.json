@@ -1,0 +1,14 @@
+{
+  "name": "quantframe-analytics-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^8.0.1",
+    "express": "^4.19.0"
+  }
+}
